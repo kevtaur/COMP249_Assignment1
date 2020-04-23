@@ -8,3 +8,4 @@ User manages an inventory of Appliances with 5 different actions to be chosen at
  - Exit program
  
  User must pass a password check for menu choices 1 and 2.
+ Password is "c249"
