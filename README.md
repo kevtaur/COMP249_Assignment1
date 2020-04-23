@@ -1,4 +1,4 @@
-# a1_Kevin-Ve_40032669
+# COMP249_Assignment1
 ## ApplianceHandler 
 User manages an inventory of Appliances with 5 different actions to be chosen at a main menu.
  - Create new Appliance
